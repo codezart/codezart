@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codezart
-- 👀 I’m interested in Backend Software Development, AI/ML, and DevOps.
+- 👀 I’m interested in Backend Software Development and AI/ML.
 - 📫 you can reach me out on abdurrahman.mohammed@outlook.com
 
 <!---
